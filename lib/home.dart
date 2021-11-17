@@ -11,7 +11,7 @@ class Home extends StatelessWidget {
         icon: Icon(Icons.menu),
         onPressed: () {},
       ),
-      title: Text('Design Books'),
+      title: Text('Personal Library'),
       actions: <Widget>[
         IconButton(
           icon: Icon(Icons.search),

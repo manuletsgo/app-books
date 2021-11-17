@@ -12,7 +12,7 @@ class Detail extends StatelessWidget {
     //app bar
     final appBar = AppBar(
       elevation: .5,
-      title: Text('Design Books'),
+      title: Text('Personal Library'),
       actions: <Widget>[
         IconButton(
           icon: Icon(Icons.search),
