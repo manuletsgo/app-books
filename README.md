@@ -27,4 +27,4 @@
 
 
 
-Made with 💜 by [@manuletsgo](https://github.com/manuletsgo) and [@muller_debi](https://instagram.com/muller.debi?utm_medium=copy_link)
+Made with 💜 by [@manuletsgo](https://github.com/manuletsgo) and [@muller_debi](https://github.com/MullerDeb)
